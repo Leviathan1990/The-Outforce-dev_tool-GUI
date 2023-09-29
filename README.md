@@ -148,3 +148,12 @@ e-mail: krisztiankispeti1990@gmail.com
 Special thanks to:
 Krisztian Kispeti for developing the prog.
 This file was last modified on: 2023.aug.20. 22:00. PM.
+
+This is the full v2.6 program with the source code. The .zip file contains the icons, resources etc. folders. just unzip the content of the .zip file to the folder you downloaded rest of the files of my program...
+
+I really need all of your help to improve this tool, because i have reached the limit of my programming skills.
+=
+My problems are:
+1.) [Fix:] The .box builder does not work properly... However the filestruct for the *.box archive is correct, it can extract the *.box archives made for the game...
+2.) [Add:]I tried to add a MP3 player to the program. If you select an item from the listBox (that files are loaded from an external *.box file with their directory ) you can play on a button that will start playing the selected .MP3 file. So you do NOT need to extract any files if you just want to play an MP3 file... There's no any API that could play a MP3 file with this method. If you know how to solve these problem, please inform me!
+3.) I really want to know more about the .opf file (main project file that contains the assets of the game. It has a really complicated structure as well as this non-traditional "archive" contains another fileformats that structures are unknown. The 3D model files as well as the animation files are in .CBaseClass .CGridMember .CUnit .CWeaponUnit formats...
